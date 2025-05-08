@@ -5,3 +5,4 @@
 vim.opt.wrap = true
 vim.opt.conceallevel = 0
 vim.opt.relativenumber = false
+vim.opt.splitkeep = "cursor"
